@@ -9,5 +9,4 @@ class AopApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
